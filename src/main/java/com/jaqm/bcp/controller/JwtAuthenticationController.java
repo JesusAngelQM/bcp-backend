@@ -30,7 +30,6 @@ import com.jaqm.bcp.service.JwtUserDetailsService;
  * @author Jesus QM
  */
 @RestController
-@CrossOrigin
 public class JwtAuthenticationController {
     
     @Autowired
